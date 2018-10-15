@@ -16,6 +16,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".Loading" />
+        <activity android:name=".AvisoCadastro" />
+        <activity android:name=".CriarConta" />
+        <activity android:name=".CadastrarDocumentos" />
+        <activity android:name=".PainelControle"></activity>
     </application>
 
 </manifest>
